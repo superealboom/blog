@@ -1,4 +1,3 @@
-# blog
+> 个人头像
 
-## 介绍
-我的博客文章
+![afuo](./assets/afuo.jpeg)
